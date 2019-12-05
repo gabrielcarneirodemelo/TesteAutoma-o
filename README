@@ -1,0 +1,8 @@
+A avaliação foi desenvolvida em Java com o MAVEN como gerenciador de dependência.
+
+* Para executar o Desafio - Website, basta acessar o diretório "src/main/java" -> package "br.com.inmetrics.AvaliacaoAutomacao.selenium" e 
+  executar classe "AberturaDePagina" com o Junit.
+* Para executar o Desafio - Webservice, basta acessar o diretório "src/main/java" -> package "br.com.inmetrics.AvaliacaoAutomacao.webservice"
+  e executar a classe "GetTest" com o Junit.
+  
+  
